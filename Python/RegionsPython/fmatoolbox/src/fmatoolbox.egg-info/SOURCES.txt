@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/fmatoolbox/__init__.py
+src/fmatoolbox/analysis.py
+src/fmatoolbox/data.py
+src/fmatoolbox/general.py
+src/fmatoolbox/plotting.py
+src/fmatoolbox.egg-info/PKG-INFO
+src/fmatoolbox.egg-info/SOURCES.txt
+src/fmatoolbox.egg-info/dependency_links.txt
+src/fmatoolbox.egg-info/top_level.txt

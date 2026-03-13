@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/regions/__init__.py
+src/regions/computation.py
+src/regions/data.py
+src/regions/loaders.py
+src/regions/plotting.py
+src/regions.egg-info/PKG-INFO
+src/regions.egg-info/SOURCES.txt
+src/regions.egg-info/dependency_links.txt
+src/regions.egg-info/top_level.txt

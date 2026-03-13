@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: fmatoolbox
+Version: 0.1.0
+Summary: Python port of FMAToolbox
+Author: Pietro Bozzo
+Requires-Python: >=3.9
+License-File: LICENSE
+Dynamic: license-file
